@@ -1,0 +1,10 @@
+###
+# @prompt query The product you want to search for
+GET https://www.webhallen.com/api/productdiscovery/search/{{query}} HTTP/1.1
+
+###
+GET https://www.webhallen.com/api/productdiscovery/search/test HTTP/1.1
+
+###
+
+GET https://www.webhallen.com/api/product/370861

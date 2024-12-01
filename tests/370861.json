@@ -1,0 +1,683 @@
+{
+    "product": {
+        "id": 370861,
+        "variants": null,
+        "name": "PNY GeForce RTX 4080 SUPER VERTO OC 16GB",
+        "data": {
+            "Videoutg\u00e5ng": {
+                "Maximal extern uppl\u00f6sning": {
+                    "name": "Maximal extern uppl\u00f6sning",
+                    "value": "7680 x 4320",
+                    "attributeId": 113,
+                    "parts": [
+                        {
+                            "value": "7680 x 4320",
+                            "text_value": "7680 x 4320",
+                            "nnv": null,
+                            "unit": "",
+                            "comb": "7680 x 4320"
+                        }
+                    ]
+                },
+                "Typ": {
+                    "name": "Typ",
+                    "value": "Grafikkort",
+                    "attributeId": 1514,
+                    "parts": [
+                        {
+                            "value": "Grafikkort",
+                            "text_value": "Grafikkort",
+                            "nnv": null,
+                            "unit": "",
+                            "comb": "Grafikkort"
+                        }
+                    ]
+                },
+                "Snabb klockhastighet": {
+                    "name": "Snabb klockhastighet",
+                    "value": "2565 MHz",
+                    "attributeId": 1591,
+                    "parts": [
+                        {
+                            "value": 2565,
+                            "text_value": "2565",
+                            "nnv": 2565,
+                            "unit": "MHz",
+                            "comb": "2565 MHz"
+                        }
+                    ]
+                },
+                "Grafikkort": {
+                    "name": "Grafikkort",
+                    "value": "NVIDIA GeForce RTX 4080 Super",
+                    "attributeId": 110,
+                    "parts": [
+                        {
+                            "value": "NVIDIA GeForce RTX 4080 Super",
+                            "text_value": "NVIDIA GeForce RTX 4080 Super",
+                            "nnv": null,
+                            "unit": "",
+                            "comb": "NVIDIA GeForce RTX 4080 Super"
+                        }
+                    ]
+                },
+                "Max antal bildsk\u00e4rmar som st\u00f6ds": {
+                    "name": "Max antal bildsk\u00e4rmar som st\u00f6ds",
+                    "value": "4",
+                    "attributeId": 287,
+                    "parts": [
+                        {
+                            "value": 4,
+                            "text_value": "4",
+                            "nnv": 4,
+                            "unit": "",
+                            "comb": "4"
+                        }
+                    ]
+                },
+                "Klockhastighet": {
+                    "name": "Klockhastighet",
+                    "value": "2295 MHz",
+                    "attributeId": 817,
+                    "parts": [
+                        {
+                            "value": 2295,
+                            "text_value": "2295",
+                            "nnv": 2295,
+                            "unit": "MHz",
+                            "comb": "2295 MHz"
+                        }
+                    ]
+                },
+                "Chiptillverkare": {
+                    "name": "Chiptillverkare",
+                    "value": "NVIDIA Geforce",
+                    "attributeId": 906,
+                    "parts": [
+                        {
+                            "value": "NVIDIA Geforce",
+                            "text_value": "NVIDIA Geforce",
+                            "nnv": null,
+                            "unit": "",
+                            "comb": "NVIDIA Geforce"
+                        }
+                    ]
+                },
+                "Typ av gr\u00e4nssnitt": {
+                    "name": "Typ av gr\u00e4nssnitt",
+                    "value": "PCI Express 4.0 x16",
+                    "attributeId": 106,
+                    "parts": [
+                        {
+                            "value": "PCI Express 4.0 x16",
+                            "text_value": "PCI Express 4.0 x16",
+                            "nnv": null,
+                            "unit": "",
+                            "comb": "PCI Express 4.0 x16"
+                        }
+                    ]
+                },
+                "Videosignal som st\u00f6ds": {
+                    "name": "Videosignal som st\u00f6ds",
+                    "value": "HDMI, DisplayPort",
+                    "attributeId": 1515,
+                    "parts": [
+                        {
+                            "value": "HDMI",
+                            "text_value": "HDMI",
+                            "nnv": null,
+                            "unit": "",
+                            "comb": "HDMI"
+                        },
+                        {
+                            "value": "DisplayPort",
+                            "text_value": "DisplayPort",
+                            "nnv": null,
+                            "unit": "",
+                            "comb": "DisplayPort"
+                        }
+                    ]
+                }
+            },
+            "Service och support": {
+                "Typ": {
+                    "name": "Typ",
+                    "value": "3 \u00e5rs garanti",
+                    "attributeId": 203,
+                    "parts": [
+                        {
+                            "value": "3 \u00e5rs garanti",
+                            "text_value": "3 \u00e5rs garanti",
+                            "nnv": null,
+                            "unit": "",
+                            "comb": "3 \u00e5rs garanti"
+                        }
+                    ]
+                }
+            },
+            "M\u00e5tt och vikt": {
+                "Bredd": {
+                    "name": "Bredd",
+                    "value": "6.15 cm",
+                    "attributeId": 172,
+                    "parts": [
+                        {
+                            "value": 0.0615,
+                            "text_value": "6.15",
+                            "nnv": 0.0615,
+                            "unit": "cm",
+                            "comb": "6.15 cm"
+                        }
+                    ]
+                },
+                "L\u00e4ngd": {
+                    "name": "L\u00e4ngd",
+                    "value": "34 cm",
+                    "attributeId": 173,
+                    "parts": [
+                        {
+                            "value": 0.34,
+                            "text_value": "34",
+                            "nnv": 0.34,
+                            "unit": "cm",
+                            "comb": "34 cm"
+                        }
+                    ]
+                },
+                "H\u00f6jd": {
+                    "name": "H\u00f6jd",
+                    "value": "14.4 cm",
+                    "attributeId": 174,
+                    "parts": [
+                        {
+                            "value": 0.144,
+                            "text_value": "14.4",
+                            "nnv": 0.144,
+                            "unit": "cm",
+                            "comb": "14.4 cm"
+                        }
+                    ]
+                }
+            },
+            "M\u00e5tt och vikt (brutto)": {
+                "Emballagets bredd": {
+                    "name": "Emballagets bredd",
+                    "value": "10.3 cm",
+                    "attributeId": 515,
+                    "parts": [
+                        {
+                            "value": 0.103,
+                            "text_value": "10.3",
+                            "nnv": 0.103,
+                            "unit": "cm",
+                            "comb": "10.3 cm"
+                        }
+                    ]
+                },
+                "Emballagets h\u00f6jd": {
+                    "name": "Emballagets h\u00f6jd",
+                    "value": "19.9 cm",
+                    "attributeId": 517,
+                    "parts": [
+                        {
+                            "value": 0.199,
+                            "text_value": "19.9",
+                            "nnv": 0.199,
+                            "unit": "cm",
+                            "comb": "19.9 cm"
+                        }
+                    ]
+                },
+                "Emballagets djup": {
+                    "name": "Emballagets djup",
+                    "value": "40.5 cm",
+                    "attributeId": 516,
+                    "parts": [
+                        {
+                            "value": 0.405,
+                            "text_value": "40.5",
+                            "nnv": 0.405,
+                            "unit": "cm",
+                            "comb": "40.5 cm"
+                        }
+                    ]
+                }
+            },
+            "Videominne": {
+                "Teknik": {
+                    "name": "Teknik",
+                    "value": "GDDR6X SDRAM",
+                    "attributeId": 108,
+                    "parts": [
+                        {
+                            "value": "GDDR6X SDRAM",
+                            "text_value": "GDDR6X SDRAM",
+                            "nnv": null,
+                            "unit": "",
+                            "comb": "GDDR6X SDRAM"
+                        }
+                    ]
+                },
+                "Installerad storlek": {
+                    "name": "Installerad storlek",
+                    "value": "16 GB",
+                    "attributeId": 3047,
+                    "parts": [
+                        {
+                            "value": 17179869184,
+                            "text_value": "16",
+                            "nnv": 17179869184,
+                            "unit": "GB",
+                            "comb": "16 GB"
+                        }
+                    ]
+                }
+            },
+            "Header": {
+                "Modell": {
+                    "name": "Modell",
+                    "value": "GeForce RTX 4080 SUPER 16GB VERTO",
+                    "attributeId": 256,
+                    "parts": [
+                        {
+                            "value": "GeForce RTX 4080 SUPER 16GB VERTO",
+                            "text_value": "GeForce RTX 4080 SUPER 16GB VERTO",
+                            "nnv": null,
+                            "unit": "",
+                            "comb": "GeForce RTX 4080 SUPER 16GB VERTO"
+                        }
+                    ]
+                },
+                "Tillverkare": {
+                    "name": "Tillverkare",
+                    "value": "PNY",
+                    "attributeId": 273,
+                    "parts": [
+                        {
+                            "value": "PNY",
+                            "text_value": "PNY",
+                            "nnv": null,
+                            "unit": "",
+                            "comb": "PNY"
+                        }
+                    ]
+                },
+                "F\u00f6rpackad kvantitet": {
+                    "name": "F\u00f6rpackad kvantitet",
+                    "value": "1",
+                    "attributeId": 291,
+                    "parts": [
+                        {
+                            "value": 1,
+                            "text_value": "1",
+                            "nnv": 1,
+                            "unit": "",
+                            "comb": "1"
+                        }
+                    ]
+                },
+                "Produktlinje": {
+                    "name": "Produktlinje",
+                    "value": "PNY",
+                    "attributeId": 255,
+                    "parts": [
+                        {
+                            "value": "PNY",
+                            "text_value": "PNY",
+                            "nnv": null,
+                            "unit": "",
+                            "comb": "PNY"
+                        }
+                    ]
+                },
+                "M\u00e4rke": {
+                    "name": "M\u00e4rke",
+                    "value": "PNY",
+                    "attributeId": 260,
+                    "parts": [
+                        {
+                            "value": "PNY",
+                            "text_value": "PNY",
+                            "nnv": null,
+                            "unit": "",
+                            "comb": "PNY"
+                        }
+                    ]
+                }
+            }
+        },
+        "stock": {
+            "web": 1,
+            "supplier": null,
+            "displayCap": 50,
+            "1": 1,
+            "2": 0,
+            "5": 0,
+            "9": 0,
+            "11": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "19": 0,
+            "20": 0,
+            "27": 0,
+            "32": 0,
+            "isSentFromStore": 0
+        },
+        "price": {
+            "price": "13790.00",
+            "currency": "SEK",
+            "vat": 2758,
+            "type": null,
+            "endAt": "2025-02-26T18:49:01",
+            "startAt": "2024-05-03T10:23:57",
+            "soldAmount": null,
+            "maxAmountForPrice": null,
+            "amountLeft": null,
+            "nearlyOver": false,
+            "flashSale": false,
+            "maxQtyPerCustomer": null
+        },
+        "regularPrice": {
+            "price": "13790.00",
+            "currency": "SEK",
+            "vat": 2758,
+            "type": null,
+            "endAt": "2025-02-26T18:26:29",
+            "startAt": "2024-05-03T10:23:57",
+            "soldAmount": null,
+            "maxAmountForPrice": null,
+            "amountLeft": null,
+            "nearlyOver": false,
+            "flashSale": false,
+            "maxQtyPerCustomer": null
+        },
+        "lowestPrice": null,
+        "levelOnePrice": null,
+        "description": "",
+        "metaTitle": null,
+        "metaDescription": null,
+        "canonicalLink": null,
+        "images": [
+            {
+                "zoom": "\/images\/product\/370861?trim&w=1400",
+                "large": "\/images\/product\/370861?trim",
+                "thumb": "\/images\/product\/370861?trim&h=80"
+            },
+            {
+                "zoom": "\/images\/screenshot\/287806?trim&w=1400",
+                "large": "\/images\/screenshot\/287806?trim",
+                "thumb": "\/images\/screenshot\/287806?trim&h=80"
+            },
+            {
+                "zoom": "\/images\/screenshot\/287807?trim&w=1400",
+                "large": "\/images\/screenshot\/287807?trim",
+                "thumb": "\/images\/screenshot\/287807?trim&h=80"
+            },
+            {
+                "zoom": "\/images\/screenshot\/287808?trim&w=1400",
+                "large": "\/images\/screenshot\/287808?trim",
+                "thumb": "\/images\/screenshot\/287808?trim&h=80"
+            },
+            {
+                "zoom": "\/images\/screenshot\/287809?trim&w=1400",
+                "large": "\/images\/screenshot\/287809?trim",
+                "thumb": "\/images\/screenshot\/287809?trim&h=80"
+            },
+            {
+                "zoom": "\/images\/screenshot\/287810?trim&w=1400",
+                "large": "\/images\/screenshot\/287810?trim",
+                "thumb": "\/images\/screenshot\/287810?trim&h=80"
+            },
+            {
+                "zoom": "\/images\/screenshot\/287811?trim&w=1400",
+                "large": "\/images\/screenshot\/287811?trim",
+                "thumb": "\/images\/screenshot\/287811?trim&h=80"
+            },
+            {
+                "zoom": "\/images\/screenshot\/287812?trim&w=1400",
+                "large": "\/images\/screenshot\/287812?trim",
+                "thumb": "\/images\/screenshot\/287812?trim&h=80"
+            },
+            {
+                "zoom": "\/images\/screenshot\/287813?trim&w=1400",
+                "large": "\/images\/screenshot\/287813?trim",
+                "thumb": "\/images\/screenshot\/287813?trim&h=80"
+            }
+        ],
+        "release": {
+            "timestamp": 1717128000,
+            "format": "Y-m-d"
+        },
+        "section": {
+            "id": 8,
+            "metaTitle": "Datorkomponenter - datordelar och uppgraderingspaket",
+            "active": true,
+            "icon": "datorkomponenter",
+            "name": "Datorkomponenter"
+        },
+        "isDigital": false,
+        "discontinued": false,
+        "categoryTree": "Datorkomponenter\/Grafikkort GPU\/GeForce RTX",
+        "mainCategoryPath": [
+            {
+                "id": 47,
+                "fyndwareDescription": "<p><br><\/p>",
+                "metaTitle": "Grafikkort (GPU) - F\u00f6r b\u00e5de Gaming & arbete",
+                "seoName": null,
+                "active": true,
+                "order": 2,
+                "icon": "grafikkort",
+                "name": "Grafikkort \/ GPU",
+                "hasProducts": true,
+                "index": 0
+            },
+            {
+                "id": 4684,
+                "fyndwareDescription": null,
+                "metaTitle": "NVIDIA GeForce RTX - Kraftfulla grafikkort",
+                "seoName": "NVIDIA GeForce RTX-serien",
+                "active": true,
+                "order": 1,
+                "icon": "grafikkort",
+                "name": "GeForce RTX",
+                "hasProducts": true,
+                "index": 1
+            }
+        ],
+        "manufacturer": {
+            "id": 4678,
+            "name": "PNY",
+            "takeoverUrl": null,
+            "websiteUrl": "",
+            "visible": false
+        },
+        "partNumbers": [
+            "VCG4080S16TFXPB1-O"
+        ],
+        "eans": [
+            "4718006456719"
+        ],
+        "ifsId": null,
+        "thumbnail": "\/images\/product\/370861?trim&h=80",
+        "shippingClass": {
+            "id": 3,
+            "order": 4,
+            "prices": [
+                {
+                    "price": 79,
+                    "shippingMethodId": 1,
+                    "isFixedPrice": false,
+                    "maximumPackageSizeId": 2
+                },
+                {
+                    "price": 99,
+                    "shippingMethodId": 2,
+                    "isFixedPrice": true,
+                    "maximumPackageSizeId": 7
+                },
+                {
+                    "price": 119,
+                    "shippingMethodId": 3,
+                    "isFixedPrice": true,
+                    "maximumPackageSizeId": 7
+                },
+                {
+                    "price": 0,
+                    "shippingMethodId": 4,
+                    "isFixedPrice": false,
+                    "maximumPackageSizeId": 7
+                },
+                {
+                    "price": 49,
+                    "shippingMethodId": 19,
+                    "isFixedPrice": true,
+                    "maximumPackageSizeId": 2
+                },
+                {
+                    "price": 0,
+                    "shippingMethodId": 20,
+                    "isFixedPrice": false,
+                    "maximumPackageSizeId": 7
+                },
+                {
+                    "price": 199,
+                    "shippingMethodId": 21,
+                    "isFixedPrice": false,
+                    "maximumPackageSizeId": 7
+                },
+                {
+                    "price": 299,
+                    "shippingMethodId": 22,
+                    "isFixedPrice": true,
+                    "maximumPackageSizeId": null
+                },
+                {
+                    "price": 69,
+                    "shippingMethodId": 25,
+                    "isFixedPrice": true,
+                    "maximumPackageSizeId": 2
+                },
+                {
+                    "price": 69,
+                    "shippingMethodId": 26,
+                    "isFixedPrice": true,
+                    "maximumPackageSizeId": 7
+                },
+                {
+                    "price": 49,
+                    "shippingMethodId": 27,
+                    "isFixedPrice": true,
+                    "maximumPackageSizeId": 2
+                },
+                {
+                    "price": 49,
+                    "shippingMethodId": 28,
+                    "isFixedPrice": true,
+                    "maximumPackageSizeId": 2
+                },
+                {
+                    "price": 69,
+                    "shippingMethodId": 29,
+                    "isFixedPrice": true,
+                    "maximumPackageSizeId": 7
+                }
+            ]
+        },
+        "averageRating": null,
+        "energyMarking": null,
+        "packageSizeId": 2,
+        "statusCodes": [],
+        "longDeliveryNotice": null,
+        "categories": [
+            {
+                "id": 47,
+                "fyndwareDescription": "<p><br><\/p>",
+                "metaTitle": "Grafikkort (GPU) - F\u00f6r b\u00e5de Gaming & arbete",
+                "seoName": null,
+                "active": true,
+                "order": 2,
+                "icon": "grafikkort",
+                "name": "Grafikkort \/ GPU"
+            },
+            {
+                "id": 4684,
+                "fyndwareDescription": null,
+                "metaTitle": "NVIDIA GeForce RTX - Kraftfulla grafikkort",
+                "seoName": "NVIDIA GeForce RTX-serien",
+                "active": true,
+                "order": 1,
+                "icon": "grafikkort",
+                "name": "GeForce RTX"
+            },
+            {
+                "id": 15615,
+                "fyndwareDescription": null,
+                "metaTitle": null,
+                "seoName": null,
+                "active": false,
+                "order": 2,
+                "icon": "datorkomponenter",
+                "name": "Komponenter"
+            },
+            {
+                "id": 15635,
+                "fyndwareDescription": null,
+                "metaTitle": null,
+                "seoName": null,
+                "active": true,
+                "order": 2,
+                "icon": "grafikkort",
+                "name": "Grafikkort"
+            },
+            {
+                "id": 15666,
+                "fyndwareDescription": null,
+                "metaTitle": null,
+                "seoName": null,
+                "active": true,
+                "order": 10,
+                "icon": "grafikkort",
+                "name": "NVIDIA GTX\/RTX"
+            }
+        ],
+        "phoneSubscription": false,
+        "reviewHighlight": null,
+        "isFyndware": false,
+        "fyndwareOf": null,
+        "fyndwareClass": null,
+        "mainTitle": "PNY GeForce RTX 4080 SUPER VERTO OC 16GB",
+        "subTitle": "NVIDIA Geforce \/ PCI Express 4.0 x16 \/ 16 GB \/ 2295 MHz",
+        "isShippable": true,
+        "isCollectable": true,
+        "meta": {
+            "highlight_member_offer": true
+        },
+        "insurance": {
+            "id": 335868,
+            "name": "Webhallen Care Pack (12 m\u00e5nader)",
+            "price": 899,
+            "provider": 1,
+            "length": 12
+        },
+        "descriptionProvider": null,
+        "minimumRankLevel": 0,
+        "possibleDeliveryMethods": [
+            1,
+            2,
+            3,
+            4,
+            20,
+            25,
+            26,
+            28,
+            29
+        ],
+        "resursPartPaymentPrice": {
+            "monthlyCost": "675.00",
+            "durationMonths": 24
+        },
+        "splashes": null,
+        "ticket": "maybesecret?"
+    }
+}
